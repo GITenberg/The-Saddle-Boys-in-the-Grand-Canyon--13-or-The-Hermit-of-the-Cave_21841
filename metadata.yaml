@@ -1,0 +1,28 @@
+_repo: The-Saddle-Boys-in-the-Grand-Canyon--13-or-The-Hermit-of-the-Cave_21841
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 21841-h/images/coverx.jpg
+creator:
+  author:
+    agent_name: Carson, James, Captain
+    gutenberg_agent_id: '8483'
+    url: http://www.gutenberg.org/2009/agents/8483
+    wikipedia: http://en.wikipedia.org/wiki/Captain_James_Carson
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2007-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21841'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Arizona -- Juvenile fiction'
+- !lcsh 'Horsemanship -- Juvenile fiction'
+- !lcsh 'Grand Canyon (Ariz.) -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Saddle Boys in the Grand Canyon; or, The Hermit of the Cave
+url: http://www.gutenberg.org/ebooks/21841
