@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8483
     wikipedia: http://en.wikipedia.org/wiki/Captain_James_Carson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21841#The-Saddle-Boys-in-the-Grand-Canyon--13-or-The-Hermit-of-the-Cave
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2007-06-15'
 gutenberg_type: Text
